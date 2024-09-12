@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iqra-j
 - 👀 I’m interested in software development
-- 🌱 I’m currently cloud native AI
+- 🌱 I’m currently learning cloud native AI
 
 
 <!---
